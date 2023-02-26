@@ -8,7 +8,7 @@ function playAudio() {
   isPlay=true;
   console.log(isPlay);
   //audio.src = 'https://7oom.ru/audio/naturesounds/07%20Birds%20(7oom.ru).mp3';
-  audio.src = 'stage1-tasks-momentum/assets/sounds/River Flows In You.mp3';
+  audio.src = 'assets/sounds/River Flows In You.mp3';
   audio.currentTime = 0;
   audio.play();
 }
